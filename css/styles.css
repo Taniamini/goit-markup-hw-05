@@ -49,7 +49,11 @@ img {
   display: block;
 }
 
-/* Base styles */
+/*
+  |==============================
+  | Base styles
+  |==============================
+*/
 
 .container {
   width: 1200px;
@@ -248,7 +252,11 @@ img {
   color: var(--second-cl);
 }
 
-/* Styles for html */
+/*
+  |==============================
+  | Styles for html ***
+  |==============================
+*/
 
 /*
   |==============================
@@ -259,6 +267,7 @@ img {
 .hero {
   margin-right: auto;
   margin-left: auto;
+
   background-color: #c4c4c4;
   max-width: 1600px;
   text-align: center;
@@ -450,7 +459,11 @@ img {
   margin-right: 0;
 } */
 
-/* Styles for portfolio */
+/*
+  |==============================
+  | Styles for portfolio ***
+  |==============================
+*/
 
 /*
   |==============================
@@ -571,6 +584,7 @@ img {
   | Header
   |==============================
 */
+
 .header-contacts-icon:hover,
 .header-contacts-icon:focus {
   color: var(--accent-txt-cl);
@@ -615,6 +629,7 @@ img {
   | About section
   |==============================
 */
+
 .block-icon {
   display: flex;
   align-items: center;
@@ -634,6 +649,7 @@ img {
   | Team section
   |==============================
 */
+
 .socials {
   display: flex;
   align-items: center;
